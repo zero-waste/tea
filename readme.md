@@ -10,3 +10,14 @@
 
 # Potential ingredients
 * Caramel
+* Ginger cake
+* Oat, rose, choc
+* Almond, milk, raspberry
+
+# Good one
+* Hibiscus
+* Rose
+* Dried lime
+* Lemongrass
+* Chamomile 
+* Vanilla 
