@@ -11,13 +11,13 @@
 # Potential ingredients
 * Caramel
 * Ginger cake
-* Oat, rose, choc
+* Oat, rose, choc - no!
 * Almond, milk, raspberry
 
 # Good one
-* Hibiscus
+* Hibiscus 100g
+* Dried lime 20g
+* Lemongrass 5g
+* Chamomile 5g
+* Vanilla
 * Rose
-* Dried lime
-* Lemongrass
-* Chamomile 
-* Vanilla 
