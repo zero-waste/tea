@@ -1,20 +1,28 @@
-# Tried and tested
-| orange | hibiscus | lime | coconut | turmeric | rose | chamomile | barberry | lemon | keffir lime | cacao nibs | apple |
-|--------|----------|------|---------|----------|------|-----------|----------|-------|-------------|------------|-------|
-|        | x        | x    |         |          |      | x         |          |       |             |            |       |
-|        |          |      | x       | x        |      |           | x        | x     |             |            |       |
-|        | x        |      | x       |          |      |           |          | x     | x           | x          |       |
-|        | x        |      |         |          | x    | x         |          |       |             |            | x     |
-|        | x        |      | x       | x        |      |           |          | x     | x           |            |       |
-| x      | x        |      |         |          | x    |           |          |       |             | x          |       |
+# Ingredients
 
-# Potential ingredients
+* Orange
+* Hibiscus
+* Lime
+* Coconut
+* Turmeric
+* Rose
+* Chamomile
+* Barberry
+* Lemon
+* Keffir lime
+* Cacao nibs
+* Apple
+
+# Potential combos
+
 * Caramel
 * Ginger cake
 * Oat, rose, choc - no!
 * Almond, milk, raspberry
+* Coconut, turmeric, barberry, lemon
 
-# Good one
+# Lilin
+
 * Hibiscus 100g
 * Dried lime 20g
 * Lemongrass 5g
